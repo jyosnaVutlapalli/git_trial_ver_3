@@ -5,3 +5,6 @@ console.log("Positive")
 if(a<0){
 console.log("negative")
 }
+else{
+console.log("Zero")
+}
